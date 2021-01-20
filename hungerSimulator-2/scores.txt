@@ -1,0 +1,3 @@
+Username, Hunger, Money, Total Crops Planted
+johnsmith123, 0, 170.0, 55
+melvinspetshark, 0, 300.0, 24
